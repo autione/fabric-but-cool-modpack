@@ -1,0 +1,13 @@
+name = "Fabric but Cool"
+author = "AutiOne"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0179d19934351d38f5850dcb8834b7acf669f0eb2661921580602a36f9f4d7ca"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"

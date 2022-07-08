@@ -1,0 +1,156 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/addadd.pw.toml"
+hash = "d187be76f7269a8a2662eb35cb34549d7b5fa8b0494b015cf3144bd5f1f0bb0e"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "6f20081fb3d44b2d8dff5ba430c050d55134dab417e67d9689dc67d56bf74060"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "9ad8cdaaf4ea30e0cf431cdb352eb27a04c7c1d8951c44d86315ebe6cda4d4a4"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e069d5130c543fdfe06368fe19a3a4877a2bd4cac471e622da057d8dca3851a8"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
+metafile = true
+
+[[files]]
+file = "mods/blockus.pw.toml"
+hash = "9dda8a4abbcf56b372ccf8dcf9b417859e2b0043ae57239820c089ffb51912d0"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "ac687864e4db3da36883e596946a6ba7f137bc13ade04214927e60502d4e964c"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3eb404aa3e5431eb0d5c38c0996b97db033fed570efe4b0a852fa183c56858ce"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "4eac356698bfb5c44c33e83535094428c3708d6d3cd3db637efe5ec435c261dd"
+metafile = true
+
+[[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "03706b2059b75b1909eb7e72481b60a1c7dc81390ab39869decc066cbcf8ab40"
+metafile = true
+
+[[files]]
+file = "mods/culinaire.pw.toml"
+hash = "343d321dbdde6669583f2c79299697ed681a0d6a294c82d6a7922bdc4a832fe9"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "40119f9becef24b33b648e820a132bf44324e0cdf9460bbee2f01081684e76a8"
+metafile = true
+
+[[files]]
+file = "mods/dawn.pw.toml"
+hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
+metafile = true
+
+[[files]]
+file = "mods/discarpet.pw.toml"
+hash = "1994e0e81d815ff89e873797290e6ddcc77191857831ccfd19efc3087cdb6a02"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "d7892548e0b0bbcad9dccd94f99786770d296d386eb1eaab525b56046aa7218a"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "1409d0a2d8e874554252aebd513b2eb6831eb0cbd4fadcb988e0823c0709da95"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
+metafile = true
+
+[[files]]
+file = "mods/multiworld-mod.pw.toml"
+hash = "84793bca4a741f4aaa72ef956ced54f4f3319580b83099ab2f769d9359de3955"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "d5b2f9d8624b485a9730cc7ad5d73349e969231f40bc4afbc64a48ebff9b39c0"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "f2d4ffd080075ee4a28e60ab33793e49fd85515e77b6ff978d370fc928e6324c"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
+metafile = true
+
+[[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "07f74f9f153ff2eb04478eeee241c399c89ad8bafa4560fa237c586de9efa812"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "858614926440637934bce655bfdfc345c1a29b7528a24177debae299001bc19d"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "a699a941a8354f49dded3e15a08603f3c134ef861ee4bf38960911cfc020c583"
+metafile = true
+
+[[files]]
+file = "mods/scarpet-additions.pw.toml"
+hash = "4313397ddd142e159ad10e4fb39e18271138bcbafef680e7fe720928781334df"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "a6ad543780b4417ddeae78cb1ca9a337fab55262bc97c0f320d596dfd58fe080"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "6511222d86332e8080ab2e4b1d20b361cc699a9c5b78c044c91e0477c40b3c88"
+metafile = true

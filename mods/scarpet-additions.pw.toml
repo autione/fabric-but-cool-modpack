@@ -1,0 +1,13 @@
+name = "Scarpet additions"
+filename = "scarpet-additions-1.19-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vXQQF1r2/versions/1.0.0/scarpet-additions-1.19-1.0.0.jar"
+hash-format = "sha1"
+hash = "b67f61309a86de32f8399555c44989b29057d80e"
+
+[update]
+[update.modrinth]
+mod-id = "vXQQF1r2"
+version = "G3ikKUtY"
