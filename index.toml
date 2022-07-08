@@ -56,11 +56,6 @@ hash = "4eac356698bfb5c44c33e83535094428c3708d6d3cd3db637efe5ec435c261dd"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "03706b2059b75b1909eb7e72481b60a1c7dc81390ab39869decc066cbcf8ab40"
-metafile = true
-
-[[files]]
 file = "mods/culinaire.pw.toml"
 hash = "343d321dbdde6669583f2c79299697ed681a0d6a294c82d6a7922bdc4a832fe9"
 metafile = true
