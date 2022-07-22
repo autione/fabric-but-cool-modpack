@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "6f20081fb3d44b2d8dff5ba430c050d55134dab417e67d9689dc67d56bf74060"
+hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "ac687864e4db3da36883e596946a6ba7f137bc13ade04214927e60502d4e964c"
+hash = "40fbd4192515ed365a57916a04c3a5a701558694e331b0bfd1afb90df4be3532"
 metafile = true
 
 [[files]]
@@ -72,17 +72,17 @@ metafile = true
 
 [[files]]
 file = "mods/discarpet.pw.toml"
-hash = "1994e0e81d815ff89e873797290e6ddcc77191857831ccfd19efc3087cdb6a02"
+hash = "81d4be8cd35991312391c29237720553b217004f7d1ce89a267ac4c4720a7b3a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
+hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/pig-pen-cipher.pw.toml"
-hash = "07f74f9f153ff2eb04478eeee241c399c89ad8bafa4560fa237c586de9efa812"
+hash = "db905d1a2b3e0292e2ac8f3f66cb898bf9d3e1c4e9316cc80ff63fa62991e0a0"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/runelic.pw.toml"
-hash = "858614926440637934bce655bfdfc345c1a29b7528a24177debae299001bc19d"
+hash = "3fe9629a76c7668b0ca1bd66f9c163fc1346a344c81e1b54930b299c300249de"
 metafile = true
 
 [[files]]
@@ -147,10 +147,10 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "a6ad543780b4417ddeae78cb1ca9a337fab55262bc97c0f320d596dfd58fe080"
+hash = "e63228fdadc03ceaac771202e588fbf174bc0d47d5f20de863a5b8a5d233058a"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "6511222d86332e8080ab2e4b1d20b361cc699a9c5b78c044c91e0477c40b3c88"
+hash = "8c9cae7d59d985533459a47fb38c3371764bf6483e65c42e5c9521b05744f7fc"
 metafile = true
