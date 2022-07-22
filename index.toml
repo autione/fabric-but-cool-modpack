@@ -71,11 +71,6 @@ hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
 metafile = true
 
 [[files]]
-file = "mods/discarpet.pw.toml"
-hash = "81d4be8cd35991312391c29237720553b217004f7d1ce89a267ac4c4720a7b3a"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
 metafile = true
