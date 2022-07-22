@@ -96,6 +96,11 @@ hash = "1409d0a2d8e874554252aebd513b2eb6831eb0cbd4fadcb988e0823c0709da95"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "baf5bb082169d947ed02468a7dee7ca01f5445f4b3d81489a54e03302676ec15"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
